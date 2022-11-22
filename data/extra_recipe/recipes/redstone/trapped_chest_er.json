@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"111",
+        "121",
+        "111"
+	],
+	"key": {
+		"1": {
+			"tag": "minecraft:planks"
+		},
+		"2": {
+			"item": "minecraft:tripwire_hook"
+		},
+		"3": {
+			"item": "minecraft:dropper"
+		}
+	},
+	"result": {
+		"item": "minecraft:trapped_chest",
+		"count": 1
+	}
+}

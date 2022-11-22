@@ -3,9 +3,9 @@
 
     "pattern":
     [
-        "121",
-        "121",
-        " 1 "
+        "  1",
+        "101",
+        "111"
     ],
 
     "key":
@@ -13,18 +13,18 @@
         "1":
         {
             "type": "forge:ore_dict",
-            "ore": "ingotIron"
+            "ore": "gemDiamond"
         },
-        "2":
+        "0":
         {
             "type": "forge:ore_dict",
-            "ore": "logWood"
+            "ore": "wool"
         }
     },
 
     "result":
     {
-        "item": "minecraft:hopper",
+        "item": "minecraft:diamond_horse_armor",
         "count": 1
     }
 }

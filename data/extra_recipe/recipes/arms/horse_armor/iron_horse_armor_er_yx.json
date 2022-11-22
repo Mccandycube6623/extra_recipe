@@ -3,9 +3,9 @@
 
     "pattern":
     [
-        "1 1",
-        "212",
-        "333"
+        "  1",
+        "101",
+        "111"
     ],
 
     "key":
@@ -13,22 +13,18 @@
         "1":
         {
             "type": "forge:ore_dict",
-            "ore": "itemRedstone"
+            "ore": "ingotIron"
         },
-        "2":
+        "0":
         {
             "type": "forge:ore_dict",
-            "ore": "stickWood"
-        },
-        "3":
-        {
-            "item": "minecraft:stone"
+            "ore": "wool"
         }
     },
 
     "result":
     {
-        "item": "minecraft:repeater",
+        "item": "minecraft:iron_horse_armor",
         "count": 1
     }
 }

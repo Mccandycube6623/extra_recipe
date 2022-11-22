@@ -3,8 +3,8 @@
 
     "pattern":
     [
-        "111",
-        "121",
+        "  1",
+        "101",
         "111"
     ],
 
@@ -13,17 +13,18 @@
         "1":
         {
             "type": "forge:ore_dict",
-            "ore": "plankWood"
+            "ore": "ingotGold"
         },
-        "2":
+        "0":
         {
-            "item": "minecraft:tripwire_hook"
+            "type": "forge:ore_dict",
+            "ore": "wool"
         }
     },
 
     "result":
     {
-        "item": "minecraft:trapped_chest",
+        "item": "minecraft:golden_horse_armor",
         "count": 1
     }
 }
