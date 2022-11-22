@@ -1,22 +1,15 @@
 {
   "type": "minecraft:crafting_shaped",
-
-  "pattern":
-  [
-    "111"
+  "pattern": [
+      "111"
   ],
-
-  "key":
-  {
-    "1":
-    {
-      "item": "minecraft:hay_block"
-    }
+  "key": {
+      "1": {
+        "item":"minecraft:hay_block"
+      }
   },
-
-  "result":
-  {
-    "item": "minecraft:bread",
-    "count": 9
+  "result": {
+      "item": "minecraft:bread",
+      "count": 9
   }
 }

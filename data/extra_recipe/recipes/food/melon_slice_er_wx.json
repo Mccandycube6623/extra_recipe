@@ -1,12 +1,12 @@
 {
-  "result": {
-    "item": "minecraft:melon",
-    "count": 9
-  },
+  "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    [
-      { "item": "minecraft:melon_block" }
-    ]
+      {
+        "item":"minecraft:melon"
+      }
   ],
-  "type": "forge:ore_shapeless"
+  "result": {
+      "item": "minecraft:melon_slice",
+      "count": 9
+  }
 }

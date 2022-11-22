@@ -1,23 +1,17 @@
 {
   "type": "minecraft:crafting_shaped",
-
-  "pattern":
-  [
+  "pattern":[
     "111",
     "111",
     "111"
   ],
-
-  "key":
-  {
+  "key":{
     "1":
     {
       "item": "minecraft:chainmail_leggings"
     }
   },
-
-  "result":
-  {
+  "result":{
     "item": "minecraft:iron_leggings",
     "count": 1
   }
